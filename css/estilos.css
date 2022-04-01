@@ -194,7 +194,7 @@ display: block;
 
 .quienesSomos{
     color: aliceblue;
-    background-image: linear-gradient(to left, red,rgb(0, 0, 0));
+    background-color: #6e6d6d;
     display: inline-block;
     margin-left: 0px;
     padding-right: 799px;
@@ -205,7 +205,7 @@ display: block;
 
     .Productos{
        
-        background-image: linear-gradient(to left, red,rgb(0, 0, 0));
+        background-color: #6e6d6d;
         flex-wrap: wrap;
 
     }
